@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gamotanadaline-debug.github.io/hero11-cricket-docs/sitemap.xml
